@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.4/Gramoteyka_v1.0.4.apk",
-  "releaseNotes": "• Новая красочная иконка приложения с Совушкой и буквами\n• Детская клавиатура со всеми буквами алфавита\n• Умная проверка словарных слов",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.5/Gramoteyka_v1.0.5.apk",
+  "releaseNotes": "• Раздел «Школьная программа»: отмечайте темы по учебнику Канакиной 2 класса\n• Ежедневные тренировки теперь формируются только из пройденного материала\n• Новая яркая иконка приложения с Совушкой",
   "forceUpdate": false,
   "publishDate": "2026-10-28"
 }
