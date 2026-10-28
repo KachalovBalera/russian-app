@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.5/Gramoteyka_v1.0.5.apk",
-  "releaseNotes": "• Раздел «Школьная программа»: отмечайте темы по учебнику Канакиной 2 класса\n• Ежедневные тренировки теперь формируются только из пройденного материала\n• Новая яркая иконка приложения с Совушкой",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.6/Gramoteyka_v1.0.6.apk",
+  "releaseNotes": "• Новая система обновлений: скачивание внутри приложения и через браузер\n• Возможность поделиться ссылкой на скачивание Грамотейки в настройках\n• Добавлена ссылка и возможность установить тренажёр «Считайка» (Математика 2 класс)\n• Обновлено название приложения: «Грамотейка»",
   "forceUpdate": false,
   "publishDate": "2026-10-28"
 }
