@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
-  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.1/_2_.apk",
-  "releaseNotes": "• Добавлены новые карточки словарных слов\n• Улучшена анимация наград и звуковые эффекты\n• Исправлены ошибки",
+  "version": "1.0.2",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.2/Gramoteyka_v1.0.2.apk",
+  "releaseNotes": "• Добавлена буква «Ё» на детскую клавиатуру\n• Клавиатура теперь идеально помещается на экране\n• Умная проверка словарных слов",
   "forceUpdate": false,
-  "publishDate": "2026-10-27"
+  "publishDate": "2026-10-28"
 }
