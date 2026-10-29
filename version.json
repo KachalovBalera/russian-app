@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.7/Gramoteyka_v1.0.7.apk",
-  "releaseNotes": "• Полное обновление дизайна в новом 3D-стиле\n• Новая шапка с бейджами звёзд и серии занятий\n• Интерактивная Hero-карточка с Совушкой и речевым облачком\n• Нижняя панель навигации (Главная, Темы, Слова, Профиль)\n• Новые 3D-иконки для школьной программы, тем и словаря",
+  "version": "1.0.8",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.8/Gramoteyka_v1.0.8.apk",
+  "releaseNotes": "• Исправлена автоустановка обновлений внутри приложения\n• Добавлена кнопка перехода в настройки разрешений установки APK\n• Улучшена стабильность загрузки файлов\n• Новый 3D-дизайн и удобная нижняя панель навигации",
   "forceUpdate": false,
-  "publishDate": "2026-10-28"
+  "publishDate": "2026-10-29"
 }
