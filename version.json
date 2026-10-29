@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.9/Gramoteyka_v1.0.9.apk",
-  "releaseNotes": "• Заголовок «Грамотейка» на главном экране зафиксирован в одну строку\n• Проверка системы автообновления приложения",
+  "version": "1.0.10",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/KachalovBalera/russian-app/releases/download/v1.0.10/Gramoteyka_v1.0.10.apk",
+  "releaseNotes": "• Меню и надёжный механизм автообновления перенесены из приложения «Считайка»\n• Упрощённый процесс установки обновлений в 1 клик\n• Заголовок зафиксирован в одну строку",
   "forceUpdate": false,
   "publishDate": "2026-10-29"
 }
